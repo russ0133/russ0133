@@ -9,7 +9,7 @@
 ------  
   
 
-- 💼 Currently working full-time as a full-stack Javascript Web Developer on [Zeg.AI](www.zeg.ai). A completely virtual, in-browser 3D studio.  
+- 💼 Currently working full-time as a full-stack Javascript Web Developer.
   
 
 - 🚀 Most proud  of my work as a Lead Javascript/PHP Developer at [Advanced Gaming](www.advanced-roleplay.com.br), a Portuguese-speaking gaming community with over 100 thousand registered users!  
