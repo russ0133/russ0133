@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Gabriel, a full-stack Javascript developer from Brasil currently residing in Tbilisi, Georgia. 🤖</div>  
+### <div align="center">I'm Gabriel, a full-stack Javascript developer from Brasil currently residing in Astana, Kazakhstan and Amsterdam, Netherlands. 🤖</div>  
   
 
 ------  
   
 
-- 💼 Currently working full-time as a full-stack Javascript Web Developer.
+- 💼 Currently working full-time as a full-stack Typescript Web Developer.
   
 
 - 🚀 Most proud  of my work as a Lead Javascript/PHP Developer at [Advanced Gaming](www.advanced-roleplay.com.br), a Portuguese-speaking gaming community with over 100 thousand registered users!  
