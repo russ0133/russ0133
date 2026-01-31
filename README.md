@@ -6,7 +6,7 @@
 
 ---
 
-- 💼 Currently working full-time as a full-stack Typescript Web Developer @ [Ecomedic.io](www.ecomedic.io).
+- 💼 Currently working full-time as a full-stack Typescript Web Developer @ [Lyfeplan](www.lyfeplan.co).
 
 - 🚀 Most proud of my work as a Lead Javascript/PHP Developer at [Advanced Gaming](www.advanced-roleplay.com.br), a Portuguese-speaking gaming community with over 100 thousand registered users!
 
